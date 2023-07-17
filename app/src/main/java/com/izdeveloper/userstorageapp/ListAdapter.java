@@ -38,10 +38,10 @@ public class ListAdapter extends RecyclerView.Adapter<ViewHolder> {
                 holder.DefaultImg.setImageResource(R.drawable.baseline_woman_2_24);
                 break;
             case 3:
-                holder.DefaultImg.setImageResource(R.drawable.avatar2);
+                holder.DefaultImg.setImageResource(R.drawable.avatar3);
                 break;
             case 4:
-                holder.DefaultImg.setImageResource(R.drawable.avatar3);
+                holder.DefaultImg.setImageResource(R.drawable.avatar2);
                 break;
             default:
                 holder.DefaultImg.setImageResource(R.drawable.defaultavtr);
